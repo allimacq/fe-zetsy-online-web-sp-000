@@ -38,6 +38,10 @@ h2 {
 
 /* Write all remaining styles here */
 
+img {
+  border: ;
+}
+
 footer {
   text-align: right;
   font-size: .5em;
