@@ -38,11 +38,11 @@ h2 {
 
 /* Write all remaining styles here */
 
-h1 img {
+#h1 img {
   border: 5px solid rgb(152,173,166);
 }
 
-.press a{
+#press a{
   border: 5px solid rgb(204,204,204);
   padding: 2px;
 }
