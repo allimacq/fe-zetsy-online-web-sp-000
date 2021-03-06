@@ -42,7 +42,7 @@ h1 img {
   border: 5px solid rgb(152,173,166);
 }
 
-.press {
+.press a{
   border: 5px solid rgb(204,204,204);
   padding: 2px;
 }
