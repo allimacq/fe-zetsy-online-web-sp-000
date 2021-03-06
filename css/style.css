@@ -29,6 +29,7 @@ h1 {
 	font-weight: normal;
 	font-family: 'Baskerville', serif;
 	color: rgb(152,173,166);
+	border-bottom: 1px solid rgb(204,204,204);
 }
 
 h2 {
